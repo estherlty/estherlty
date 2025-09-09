@@ -1,4 +1,7 @@
 ## Hi, I'm Esther :)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-orange)
 
 I'm a postdoctoral researcher with [@SURGroup](https://github.com/SURGroup) at the Hopkins Extreme Materials Institute of Johns Hopkins University.  
 I work on **machine learning, molecular dynamics, and equation-of-state models** for materials under extreme conditions.
@@ -19,8 +22,11 @@ I work on **machine learning, molecular dynamics, and equation-of-state models**
 
 ---
 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tungyan-liu/) 
+- [LinkedIn](https://www.linkedin.com/in/tungyan-liu/)
+
 <!--
+![Profile views](https://komarev.com/ghpvc/?username=estherliu&color=blue)
+
 **estherlty/estherlty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
