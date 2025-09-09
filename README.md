@@ -17,7 +17,7 @@ I work on **scientific machine learning, molecular dynamics, and equation-of-sta
 - Atomistic simulations for materials discovery
   
 🌱 I’m currently learning ...
-- Density Functional Theory (DFT) and machaine-learned interatomic potentials (MLIP)
+- Density Functional Theory (DFT) and machaine-learned interatomic potentials (MLIP) development
 - Open-source scientific software development 
 
 ---
