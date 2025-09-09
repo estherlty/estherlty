@@ -1,5 +1,5 @@
 ## Hi, I'm Esther :)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LAMMPS](https://img.shields.io/badge/LAMMPS-orange)
 
