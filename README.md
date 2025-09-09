@@ -4,7 +4,7 @@
 ![LAMMPS](https://img.shields.io/badge/LAMMPS-orange)
 
 I'm a postdoctoral researcher with [@SURGroup](https://github.com/SURGroup) at the Hopkins Extreme Materials Institute of Johns Hopkins University.  
-I work on **machine learning, molecular dynamics, and equation-of-state models** for materials under extreme conditions.
+I work on **scientific machine learning, molecular dynamics, and equation-of-state models** for materials under extreme conditions.
 
 ---
 🔭 My work and expertise
