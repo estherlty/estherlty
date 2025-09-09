@@ -1,6 +1,6 @@
 ## Hi, I'm Esther :)
 
-I'm a postdoctoral researcher with @SURGroup at the Hopkins Extreme Materials Institute of Johns Hopkins University.  
+I'm a postdoctoral researcher with [@SURGroup](https://github.com/SURGroup) at the Hopkins Extreme Materials Institute of Johns Hopkins University.  
 I work on **machine learning, molecular dynamics, and equation-of-state models** for materials under extreme conditions.
 
 ---
