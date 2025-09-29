@@ -10,7 +10,7 @@ I work on **scientific machine learning, molecular dynamics, and equation-of-sta
 🔭 My work and expertise
 - Developing **physics-constrained Gaussian Process Equation-of-State (GP-EOS) models**
 - Integrating GP-EOS with hydrocodes for high-energy lasers/ high-compression experimental designs
-- Running million-atom **molecular dynamics simulations** on high performance computing platforms
+- Designing and executing million-atom **molecular dynamics simulations** on HPC platforms to tackle challenges in material designs
 
 🚀 Interests
 - Materials science under extreme conditions  
