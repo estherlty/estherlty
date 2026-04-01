@@ -7,21 +7,18 @@ I'm a postdoctoral researcher with [@SURGroup](https://github.com/SURGroup) at t
 I work on **scientific machine learning, molecular dynamics, and equation-of-state models** for materials under extreme conditions.
 
 ---
-🔭 My work and expertise
+My work and expertise
 - Developing **physics-constrained Gaussian Process Equation-of-State (GP-EOS) models**
 - Integrating GP-EOS with hydrocodes for high-energy lasers/ high-compression experimental designs
 - Designing and executing million-atom **molecular dynamics simulations** on HPC platforms to tackle challenges in material designs
 
-🚀 Interests
+Interests
 - Materials science under extreme conditions  
 - Atomistic simulations for materials discovery
-  
-🌱 I’m currently learning ...
-- Density Functional Theory (DFT) and machaine-learned interatomic potentials (MLIP) development
 - Open-source scientific software development 
 
 ---
-📫 Connect with Me
+📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tungyan-liu/)
 
 <!--
